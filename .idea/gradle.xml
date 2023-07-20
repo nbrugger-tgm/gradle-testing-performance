@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/buildSrc" name="buildSrc">
+                <projects>
+                  <project path="$PROJECT_DIR$/buildSrc" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/template" />
+            <option value="$PROJECT_DIR$/unit-only" />
+            <option value="$PROJECT_DIR$/unit-only/module1" />
+            <option value="$PROJECT_DIR$/unit-only/module10" />
+            <option value="$PROJECT_DIR$/unit-only/module11" />
+            <option value="$PROJECT_DIR$/unit-only/module12" />
+            <option value="$PROJECT_DIR$/unit-only/module13" />
+            <option value="$PROJECT_DIR$/unit-only/module14" />
+            <option value="$PROJECT_DIR$/unit-only/module15" />
+            <option value="$PROJECT_DIR$/unit-only/module16" />
+            <option value="$PROJECT_DIR$/unit-only/module17" />
+            <option value="$PROJECT_DIR$/unit-only/module18" />
+            <option value="$PROJECT_DIR$/unit-only/module19" />
+            <option value="$PROJECT_DIR$/unit-only/module2" />
+            <option value="$PROJECT_DIR$/unit-only/module20" />
+            <option value="$PROJECT_DIR$/unit-only/module3" />
+            <option value="$PROJECT_DIR$/unit-only/module4" />
+            <option value="$PROJECT_DIR$/unit-only/module5" />
+            <option value="$PROJECT_DIR$/unit-only/module6" />
+            <option value="$PROJECT_DIR$/unit-only/module7" />
+            <option value="$PROJECT_DIR$/unit-only/module8" />
+            <option value="$PROJECT_DIR$/unit-only/module9" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
